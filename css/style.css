@@ -1,3 +1,13 @@
 body{
     background-color: aqua;
 }
+.main{
+    width: 70%;
+    margin: 20px auto;
+    border: 1px solid blue;
+    padding: 20px;
+    background-color: #f1f1f1;
+}
+h2{
+    margin-top: 0px;
+}
