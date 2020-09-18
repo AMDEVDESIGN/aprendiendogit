@@ -3,19 +3,19 @@ body{
     background-color: aqua;
 }
 .main{
-    width: 60%;
+    width: 80%;
     margin: 20px auto;
     border: 1px solid blue;
     padding: 20px;
-    background-color: #f1f1f1;
+    background-color: #f0f0f0;
 }
 h2{
     margin-top: 0px;
     color: yellow;
 }
 .encabezado{
-    background-color: rgb(11, 28, 184);
-    color: aqua;
+    color: rgba(0, 0, 0, 0.788);
+    background-color: rgb(9, 247, 255);
     padding: 20px;
     margin-bottom: 20px;
     font-size: 30px;
