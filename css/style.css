@@ -3,7 +3,7 @@ body{
     background-color: aqua;
 }
 .main{
-    width: 70%;
+    width: 60%;
     margin: 20px auto;
     border: 1px solid blue;
     padding: 20px;
@@ -11,11 +11,16 @@ body{
 }
 h2{
     margin-top: 0px;
+    color: yellow;
 }
 .encabezado{
-    background-color: darkgoldenrod;
+    background-color: rgb(11, 28, 184);
+    color: aqua;
     padding: 20px;
     margin-bottom: 20px;
     font-size: 30px;
     box-shadow: 0px 5px 10px black;
+}
+h3{
+    color: red;
 }
