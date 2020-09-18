@@ -1,7 +1,39 @@
 body{
     background-color: aqua;
 }
+/*Css del Header*/
 .cabezera{
-    padding-top: 2rem;
-    margin-top: auto;
+    padding: 2rem 4rem 1rem 4rem;
+    margin: 2rem 2.3rem 0 2.3rem;
+    background-color: black;
+    text-align: center;
+    font-size: 1rem;   
+    text-transform: capitalize;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+h1{
+    text-align: center;
+    font-size: 1.5rem;
+    color: blue;
+}
+
+@media (min-width: 768px) {
+    .cabezera{
+        padding: 2.5rem 4rem 2.5rem 4rem;
+        margin: 2.5rem 2.5rem 0 2.5rem;
+        background-color: #f1f1f1;
+        text-align: center;
+        font-size: 1rem;   
+        color: black;
+        text-transform: capitalize;
+    }
+    h1{
+        text-align: center;
+        font-size: 2rem;
+        color: blue;
+    }
+    p{
+        font-size: 1.8rem;
+    }
 }
