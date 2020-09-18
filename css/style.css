@@ -11,11 +11,11 @@ body{
 }
 h2{
     margin-top: 0px;
-    color: yellow;
+    color: rgb(255, 17, 0);
 }
 .encabezado{
     color: rgba(0, 0, 0, 0.788);
-    background-color: rgb(9, 247, 255);
+    background-color: rgb(9, 255, 234);
     padding: 20px;
     margin-bottom: 20px;
     font-size: 30px;
