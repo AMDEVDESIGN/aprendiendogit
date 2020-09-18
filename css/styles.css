@@ -37,3 +37,14 @@ h1{
         font-size: 1.8rem;
     }
 }
+/*FOOTER*/
+.final{
+    background-color: black;
+    padding: 2rem 0 4rem ;
+}
+.menu{
+        text-decoration: none;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-transform: uppercase;
+}
+
